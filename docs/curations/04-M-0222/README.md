@@ -22,14 +22,14 @@ Scans are normally performed at baseline (b0) (about 2 days before) and then 2-3
 - Anatomical runs per session:
   - T1-weighted: 1 run (often 1 or 2 additional T1-weighted runs in the baseline session)
   - T2-weighted: 3 runs (baseline session only)
-- Diffusion-Weighted Imaging (DWI): 2 runs (baseline session only)
-  - 30 directions, bval: 1100 s/mm^2, acquired in two groups (g1/g2)
+- Diffusion-Weighted Imaging (DWI): (baseline session only)
+  -  Of the 60 diffusion‐weighted images, 6, 12, and 42 images were acquired with b‐values of 0, 300, and 1,100 s/mm2.
 
 - Functional runs per session:
   - Resting state: 1 run, 8 min, eyes closed, physio was collected during this run only (for most of the data)
   - [Dot probe task](https://www.sciencedirect.com/science/article/pii/S2213158218302183): 2 runs, 8.75 min each
   - [Emotional faces evaluation task](https://www.sciencedirect.com/science/article/pii/S0165032720328512): 2 runs, 4.8 min each
-  - [N-back task](): 1-3 runs, ### min
+  - [N-back task](https://discovery.ucl.ac.uk/id/eprint/1473924/19/Lally_PhD_Thesis.pdf.without%20signature.pdf, p119;https://pmc.ncbi.nlm.nih.gov/articles/PMC3869492/):, 6 min
 
 - Magnetic Resonance Spectroscopy (MRS)
   - nominally all sessions for participants after sub-MOA115/sub-MOA306
