@@ -27,14 +27,28 @@ Scans are normally performed at baseline (b0) (about 2 days before) and then 2-3
 
 - Functional runs per session:
   - Resting state: 1 run, 8 min, eyes closed, physio was collected during this run only (for most of the data)
-  - [Dot probe task](https://www.sciencedirect.com/science/article/pii/S2213158218302183): 2 runs, 8.75 min each
-  - [Emotional faces evaluation task](https://www.sciencedirect.com/science/article/pii/S0165032720328512): 2 runs, 4.8 min each
-  - [N-back task](): 1-3 runs, ### min
+  - [Dot probe task](https://www.sciencedirect.com/science/article/pii/S2213158218302183): 2 runs, 8.75 min each. This task used a mixed block/event-related design. In each trial, a fixation cross was presented for 500 ms in the center of the screen, where the participant had been instructed to focus. This was followed by two faces presented side by side for 500 ms; one displayed an angry, happy, or neutral expression and the other was always neutral. After the faces were presented, a single dot was presented on one side for 200 ms, to which the participant responded with a button press to indicate whether the dot probe was on the left or right. Trials in which the dot replaced the emotional face were considered congruent, according to the expectation of attention being biased more towards an emotional than a neutral face. Trials in which the dot replaced the neutral face were considered incongruent. Trials were randomized and counterbalanced for emotion, gender of face, side of emotional face, and side of probe. There was then an interstimulus interval in which a blank screen appeared for 1300 ms. Jitter was randomly added in as additional trials in which only a fixation cross appeared in place of the faces and probe. Trials were grouped into blocks: angry blocks comprised trials with angry and neutral faces or two neutral faces, and happy blocks comprised trials with happy and neutral faces or two neutral faces. The task comprised two runs, and each run included one angry block and one happy block. For each scanning session, the task used a unique set of facial stimuli that were counterbalanced between the ketamine and placebo arms of the study according to the randomized crossover study design.
+  - [Emotional faces evaluation task](https://www.sciencedirect.com/science/article/pii/S0165032720328512): 2 runs, 4.8 min each. This task used a mixed block/event-related design. In each trial (Fig. 2), a fixation cross was presented for 500 ms in the center of the screen, where the participant had been instructed to focus. This was followed by two faces presented side by side for 500 ms; one displayed an angry, happy, or neutral expression and the other was always neutral. After the faces were presented, a single dot was presented on one side for 200 ms, to which the participant responded with a button press to indicate whether the dot probe was on the left or right. Trials in which the dot replaced the emotional face were considered congruent, according to the expectation of attention being biased more towards an emotional than a neutral face. Trials in which the dot replaced the neutral face were considered incongruent. Trials were randomized and counterbalanced for emotion, gender of face, side of emotional face, and side of probe. There was then an interstimulus interval in which a blank screen appeared for 1300 ms. Jitter was randomly added in as additional trials in which only a fixation cross appeared in place of the faces and probe. Trials were grouped into blocks: angry blocks comprised trials with angry and neutral faces or two neutral faces, and happy blocks comprised trials with happy and neutral faces or two neutral faces. The task comprised two runs, and each run included one angry block and one happy block. For each scanning session, the task used a unique set of facial stimuli that were counterbalanced between the ketamine and placebo arms of the study according to the randomized crossover study design.
+  - [N-back task](https://zenodo.org/records/7148): 1 run, 6 minutes. Following an initial fixation
+cross (which lasted 0.9s in duration) and block condition instructions (1s; “1-back”
+or “3-back”; Figure 5.2A; these remained onscreen for the rest of the block),
+participants were presented with a randomized sequence of 12 lower case consonants
+(1s; “t”, “f”, “p”, “v”, “g” or “h”), between a blank screen (0.5s), save for the task
+instruction; alternatively, a fixation cross was presented continuously and
+participants were instructed to rest. The aim was for participants to make a button
+press when the stimulus on screen was the same as the stimulus n-back. Participants
+were only presented with 1- and 3-back active blocks and rest. Blocks, of which there were 18,
+were randomized in order, with six of each condition presented (rest, 1-back and 3-
+back). Each block lasted 19.1 seconds from the time of the instructions to the interim
+fixation cross, with the task lasting six minutes in total. Only one run was undertaken
+during each scanning session. Participants received extensive training on the n-back
+task, completing 0-, 1-, 2-, and, 3-back examples, prior to performing the task inside
+the MRI scanner
 
 - Magnetic Resonance Spectroscopy (MRS)
   - nominally all sessions for participants after sub-MOA115/sub-MOA306
   - 7T Siemens, 32ch head coil
-  - 2cm isotropic voxel centered on the perigenual ACC, TE-optimized J-suppression PRESS sequence at 7T optimized to measure glutamate
+  - 2cm isotropic voxel centered on the perigenual ACC, [TE-optimized J-suppression PRESS sequence at 7T optimized to measure glutamate](https://pubmed.ncbi.nlm.nih.gov/24585452/)
 
 ### Exceptions
 
