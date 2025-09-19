@@ -23,7 +23,8 @@ Scans are normally performed at baseline (b0) (about 2 days before) and then 2-3
   - T1-weighted: 1 run (often 1 or 2 additional T1-weighted runs in the baseline session)
   - T2-weighted: 3 runs (baseline session only)
 - Diffusion-Weighted Imaging (DWI): 2 runs (baseline session only)
-  - 30 directions, bval: 1100 s/mm^2, acquired in two groups (g1/g2)
+  - 30 directions, acquired in two groups (g1/g2)
+  - Of the 60 diffusion‐weighted images, 6, 12, and 42 images were acquired with b‐values of 0, 300, and 1,100 s/mm2.
 
 - Functional runs per session:
   - Resting state: 1 run, 8 min, eyes closed, physio was collected during this run only (for most of the data)
